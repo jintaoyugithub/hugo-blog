@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - jintao.yu blog</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>http://localhost:1313/hugo-blog/categories/</link>
         <description>Categories - Category - jintao.yu blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
-            <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Mon, 10 Mar 2025 00:14:55 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Mon, 10 Mar 2025 00:14:55 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/hugo-blog/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Utilities</title>
-    <link>http://localhost:1313/categories/utilities/</link>
+    <link>http://localhost:1313/hugo-blog/categories/utilities/</link>
     <pubDate>Mon, 10 Mar 2025 00:14:55 &#43;0100</pubDate><author>
         <name>Jintao Yu</name>
-    </author><guid>http://localhost:1313/categories/utilities/</guid>
+    </author><guid>http://localhost:1313/hugo-blog/categories/utilities/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
