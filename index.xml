@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>jintao.yu blog</title>
+        <link>http://localhost:1313/</link>
+        <description>Jintao.Yu&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
+            <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Mon, 10 Mar 2025 00:14:55 &#43;0100</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Git Overview</title>
+    <link>http://localhost:1313/git/</link>
+    <pubDate>Mon, 10 Mar 2025 00:14:55 &#43;0100</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>http://localhost:1313/git/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/git/git-logo.jpg" referrerpolicy="no-referrer">
+            </div>An overview of common commands of git in the terminal]]></description>
+</item></channel>
+</rss>
