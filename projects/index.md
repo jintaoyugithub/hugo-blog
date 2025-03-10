@@ -1,5 +1,5 @@
 # 
 
 
-{{< showcase "Showcase example" "Explain how showcase work in this theme" "../assets/imgs/avatar.jpg" "/git" >}}
+{{< showcase "Showcase example" "Explain how showcase work in this theme" "assets/imgs/avatar.jpg" "/git/" >}}
 
