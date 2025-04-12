@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Utilities - Category - jintao.yu blog</title>
+        <title>Utilities - Category - Jintao Yu</title>
         <link>https://jintaoyugithub.github.io/hugo-blog/categories/utilities/</link>
-        <description>Utilities - Category - jintao.yu blog</description>
+        <description>Utilities - Category - Jintao Yu</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
             <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Mon, 10 Mar 2025 00:14:55 &#43;0100</lastBuildDate><atom:link href="https://jintaoyugithub.github.io/hugo-blog/categories/utilities/" rel="self" type="application/rss+xml" /><item>
     <title>Git Overview</title>
