@@ -1,5 +1,0 @@
-# Git Overview
-
-
-<!--more-->
-
