@@ -47,7 +47,7 @@
         <name>Jintao Yu</name>
     </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-cyberguard/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/hugo-blog/proj-cyberguard/cyberGuard_cover.jpg" referrerpolicy="no-referrer">
+                <img src="/hugo-blog/proj-cyberguard/cyberGuard_cover.png" referrerpolicy="no-referrer">
             </div>]]></description>
 </item><item>
     <title>Blender Archive</title>
@@ -55,7 +55,9 @@
     <pubDate>Sat, 12 Apr 2025 22:28:04 &#43;0200</pubDate><author>
         <name>Jintao Yu</name>
     </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-blenderarchive/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hugo-blog/proj-blenderarchive/ba_cover.png" referrerpolicy="no-referrer">
+            </div>]]></description>
 </item><item>
     <title>AR Drone</title>
     <link>https://jintaoyugithub.github.io/hugo-blog/proj-ardrone/</link>
