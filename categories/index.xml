@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Jintao Yu</title>
+        <link>https://jintaoyugithub.github.io/hugo-blog/categories/</link>
+        <description>Categories - Category - Jintao Yu</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
+            <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Sat, 12 Apr 2025 23:07:44 &#43;0200</lastBuildDate><atom:link href="https://jintaoyugithub.github.io/hugo-blog/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Projects</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/categories/projects/</link>
+    <pubDate>Sat, 12 Apr 2025 23:07:44 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/categories/projects/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Utilities</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/categories/utilities/</link>
+    <pubDate>Mon, 10 Mar 2025 00:14:55 &#43;0100</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/categories/utilities/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

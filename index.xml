@@ -1,0 +1,89 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Jintao Yu</title>
+        <link>https://jintaoyugithub.github.io/hugo-blog/</link>
+        <description>Jintao.Yu&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
+            <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Sun, 13 Apr 2025 12:20:35 &#43;0200</lastBuildDate>
+            <atom:link href="https://jintaoyugithub.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>About Me</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/about/</link>
+    <pubDate>Sun, 13 Apr 2025 12:20:35 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/about/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hugo-blog/about/about_cover.png" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
+    <title>Software Tessellation in Character Rendering</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/proj-softwaretesscharacterrendering/</link>
+    <pubDate>Sat, 12 Apr 2025 22:33:01 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-softwaretesscharacterrendering/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hugo-blog/proj-softwaretesscharacterrendering/stcr_cover.png" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
+    <title>Git Cheatsheet</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/git/</link>
+    <pubDate>Mon, 10 Mar 2025 00:14:55 &#43;0100</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/git/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hugo-blog/git/git-logo.jpg" referrerpolicy="no-referrer">
+            </div>An overview of common commands of git in the terminal]]></description>
+</item><item>
+    <title>Parallax Voxel Ray Marcher</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/proj-parallaxvoxelraymarcher/</link>
+    <pubDate>Sat, 12 Apr 2025 22:18:45 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-parallaxvoxelraymarcher/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hugo-blog/proj-parallaxvoxelraymarcher/pvrm_cover.png" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
+    <title>Fluid Simulation</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/proj-fluidsimulation/</link>
+    <pubDate>Sat, 12 Apr 2025 22:19:09 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-fluidsimulation/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hugo-blog/proj-fluidsimulation/fluidSim_cover.png" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
+    <title>Aero Rings</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/</link>
+    <pubDate>Sat, 12 Apr 2025 23:07:44 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hugo-blog/proj-aerorings/aeroRings_cover.png" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
+    <title>Cyber Guard</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/proj-cyberguard/</link>
+    <pubDate>Sat, 12 Apr 2025 22:23:12 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-cyberguard/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hugo-blog/proj-cyberguard/cyberGuard_cover.jpg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item><item>
+    <title>Blender Archive</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/proj-blenderarchive/</link>
+    <pubDate>Sat, 12 Apr 2025 22:28:04 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-blenderarchive/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>AR Drone</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/proj-ardrone/</link>
+    <pubDate>Sat, 12 Apr 2025 22:19:41 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-ardrone/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hugo-blog/proj-ardrone/arDrone_cover.png" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item></channel>
+</rss>
