@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Projects - Category - Jintao Yu</title>
+        <title>Projects - Category - Jintao Yu Blog</title>
         <link>https://jintaoyugithub.github.io/hugo-blog/categories/projects/</link>
-        <description>Projects - Category - Jintao Yu</description>
+        <description>Projects - Category - Jintao Yu Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
             <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Sat, 12 Apr 2025 23:07:44 &#43;0200</lastBuildDate><atom:link href="https://jintaoyugithub.github.io/hugo-blog/categories/projects/" rel="self" type="application/rss+xml" /><item>
     <title>Software Tessellation in Character Rendering</title>

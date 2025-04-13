@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Series - Series - Jintao Yu</title>
+        <title>Series - Series - Jintao Yu Blog</title>
         <link>https://jintaoyugithub.github.io/hugo-blog/series/</link>
-        <description>Series - Series - Jintao Yu</description>
+        <description>Series - Series - Jintao Yu Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
             <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><atom:link href="https://jintaoyugithub.github.io/hugo-blog/series/" rel="self" type="application/rss+xml" /></channel>
 </rss>

@@ -43,14 +43,14 @@ link="https://jintaoyugithub.github.io/hugo-blog/proj-blenderarchive/" >}}
 <!-- project:  -->
 {{< showcase 
 title="Cyber Guard"
-summary="An university project focus on camera system usecase in VR word" 
+summary="A university project focuses on camera system use case in VR world" 
 image="https://jintaoyugithub.github.io/hugo-blog/proj-cyberguard/cyberGuard_cover.png" 
 link="https://jintaoyugithub.github.io/hugo-blog/proj-cyberguard/" >}}
 
 <!-- project:  -->
 {{< showcase 
 title="AR Drone"
-summary="An university project collaborate with UAS lab of Lund university for better drone training" 
+summary="A university project collaborate with UAS lab of Lund university for better drone training" 
 image="https://jintaoyugithub.github.io/hugo-blog/proj-ardrone/arDrone_cover.png" 
 link="https://jintaoyugithub.github.io/hugo-blog/proj-ardrone/" >}}
 
