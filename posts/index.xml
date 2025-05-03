@@ -4,7 +4,28 @@
         <link>https://jintaoyugithub.github.io/hugo-blog/posts/</link>
         <description>All Posts | Jintao Yu Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
-            <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Sat, 19 Apr 2025 11:49:42 &#43;0200</lastBuildDate><atom:link href="https://jintaoyugithub.github.io/hugo-blog/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Sat, 03 May 2025 22:06:14 &#43;0200</lastBuildDate><atom:link href="https://jintaoyugithub.github.io/hugo-blog/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Stl</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/stl/</link>
+    <pubDate>Sat, 03 May 2025 22:06:14 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/stl/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Cpp11</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/cpp11/</link>
+    <pubDate>Sat, 03 May 2025 22:06:00 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/cpp11/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Cppbasic</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/cppbasic/</link>
+    <pubDate>Sat, 03 May 2025 22:05:49 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/cppbasic/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Atomic Habits</title>
     <link>https://jintaoyugithub.github.io/hugo-blog/atomichabits/</link>
     <pubDate>Sat, 19 Apr 2025 11:49:42 &#43;0200</pubDate><author>
@@ -64,33 +85,6 @@
     </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/hugo-blog/proj-aerorings/aeroRings_cover.png" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item><item>
-    <title>Cyber Guard</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/proj-cyberguard/</link>
-    <pubDate>Sat, 12 Apr 2025 22:23:12 &#43;0200</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-cyberguard/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/hugo-blog/proj-cyberguard/cyberGuard_cover.png" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item><item>
-    <title>Blender Archive</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/proj-blenderarchive/</link>
-    <pubDate>Sat, 12 Apr 2025 22:28:04 &#43;0200</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-blenderarchive/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/hugo-blog/proj-blenderarchive/ba_cover.png" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item><item>
-    <title>AR Drone</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/proj-ardrone/</link>
-    <pubDate>Sat, 12 Apr 2025 22:19:41 &#43;0200</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-ardrone/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/hugo-blog/proj-ardrone/arDrone_cover.png" referrerpolicy="no-referrer">
             </div>]]></description>
 </item></channel>
 </rss>

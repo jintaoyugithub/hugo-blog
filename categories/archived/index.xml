@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Archived - Category - Jintao Yu Blog</title>
+        <link>https://jintaoyugithub.github.io/hugo-blog/categories/archived/</link>
+        <description>Archived - Category - Jintao Yu Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
+            <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Sat, 03 May 2025 22:06:14 &#43;0200</lastBuildDate><atom:link href="https://jintaoyugithub.github.io/hugo-blog/categories/archived/" rel="self" type="application/rss+xml" /><item>
+    <title>Stl</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/stl/</link>
+    <pubDate>Sat, 03 May 2025 22:06:14 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/stl/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Cpp11</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/cpp11/</link>
+    <pubDate>Sat, 03 May 2025 22:06:00 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/cpp11/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Cppbasic</title>
+    <link>https://jintaoyugithub.github.io/hugo-blog/cppbasic/</link>
+    <pubDate>Sat, 03 May 2025 22:05:49 &#43;0200</pubDate><author>
+        <name>Jintao Yu</name>
+    </author><guid>https://jintaoyugithub.github.io/hugo-blog/cppbasic/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
