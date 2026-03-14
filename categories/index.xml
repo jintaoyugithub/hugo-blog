@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jintao Yu Blog</title>
-    <link>http://localhost:1313/hugo-blog/categories/</link>
+    <link>https://jintaoyugithub.github.io/hugo-blog/categories/</link>
     <description>Recent content in Categories on Jintao Yu Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
     <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster>
     <lastBuildDate>Sat, 12 Apr 2025 23:07:44 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jintaoyugithub.github.io/hugo-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/hugo-blog/categories/projects/</link>
+      <link>https://jintaoyugithub.github.io/hugo-blog/categories/projects/</link>
       <pubDate>Sat, 12 Apr 2025 23:07:44 +0200</pubDate><author>jintaoyuemail@gmail.com (Jintao Yu)</author>
-      <guid>http://localhost:1313/hugo-blog/categories/projects/</guid>
+      <guid>https://jintaoyugithub.github.io/hugo-blog/categories/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>Utilities</title>
-      <link>http://localhost:1313/hugo-blog/categories/utilities/</link>
+      <link>https://jintaoyugithub.github.io/hugo-blog/categories/utilities/</link>
       <pubDate>Mon, 10 Mar 2025 00:14:55 +0100</pubDate><author>jintaoyuemail@gmail.com (Jintao Yu)</author>
-      <guid>http://localhost:1313/hugo-blog/categories/utilities/</guid>
+      <guid>https://jintaoyugithub.github.io/hugo-blog/categories/utilities/</guid>
       <description></description>
     </item>
   </channel>

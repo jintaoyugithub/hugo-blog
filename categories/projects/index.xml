@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Jintao Yu Blog</title>
-    <link>http://localhost:1313/hugo-blog/categories/projects/</link>
+    <link>https://jintaoyugithub.github.io/hugo-blog/categories/projects/</link>
     <description>Recent content in Projects on Jintao Yu Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
     <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster>
     <lastBuildDate>Sat, 12 Apr 2025 23:07:44 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-blog/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jintaoyugithub.github.io/hugo-blog/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mesh refinement with compute shader tessellation</title>
-      <link>http://localhost:1313/hugo-blog/proj-computershadertessellation/</link>
+      <link>https://jintaoyugithub.github.io/hugo-blog/proj-computershadertessellation/</link>
       <pubDate>Sat, 12 Apr 2025 22:33:01 +0200</pubDate><author>jintaoyuemail@gmail.com (Jintao Yu)</author>
-      <guid>http://localhost:1313/hugo-blog/proj-computershadertessellation/</guid>
+      <guid>https://jintaoyugithub.github.io/hugo-blog/proj-computershadertessellation/</guid>
       <description></description>
     </item>
     <item>
       <title>Parallax Voxel Ray Marcher</title>
-      <link>http://localhost:1313/hugo-blog/proj-parallaxvoxelraymarcher/</link>
+      <link>https://jintaoyugithub.github.io/hugo-blog/proj-parallaxvoxelraymarcher/</link>
       <pubDate>Sat, 12 Apr 2025 22:19:09 +0200</pubDate><author>jintaoyuemail@gmail.com (Jintao Yu)</author>
-      <guid>http://localhost:1313/hugo-blog/proj-parallaxvoxelraymarcher/</guid>
+      <guid>https://jintaoyugithub.github.io/hugo-blog/proj-parallaxvoxelraymarcher/</guid>
       <description></description>
     </item>
     <item>
       <title>Fluid Simulation</title>
-      <link>http://localhost:1313/hugo-blog/proj-fluidsimulation/</link>
+      <link>https://jintaoyugithub.github.io/hugo-blog/proj-fluidsimulation/</link>
       <pubDate>Sat, 12 Apr 2025 22:19:09 +0200</pubDate><author>jintaoyuemail@gmail.com (Jintao Yu)</author>
-      <guid>http://localhost:1313/hugo-blog/proj-fluidsimulation/</guid>
+      <guid>https://jintaoyugithub.github.io/hugo-blog/proj-fluidsimulation/</guid>
       <description></description>
     </item>
     <item>
       <title>Aero Rings</title>
-      <link>http://localhost:1313/hugo-blog/proj-aerorings/</link>
+      <link>https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/</link>
       <pubDate>Sat, 12 Apr 2025 23:07:44 +0200</pubDate><author>jintaoyuemail@gmail.com (Jintao Yu)</author>
-      <guid>http://localhost:1313/hugo-blog/proj-aerorings/</guid>
+      <guid>https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Utilities on Jintao Yu Blog</title>
-    <link>http://localhost:1313/hugo-blog/categories/utilities/</link>
+    <link>https://jintaoyugithub.github.io/hugo-blog/categories/utilities/</link>
     <description>Recent content in Utilities on Jintao Yu Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
     <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster>
     <lastBuildDate>Mon, 10 Mar 2025 00:14:55 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-blog/categories/utilities/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jintaoyugithub.github.io/hugo-blog/categories/utilities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git Cheatsheet</title>
-      <link>http://localhost:1313/hugo-blog/git/</link>
+      <link>https://jintaoyugithub.github.io/hugo-blog/git/</link>
       <pubDate>Mon, 10 Mar 2025 00:14:55 +0100</pubDate><author>jintaoyuemail@gmail.com (Jintao Yu)</author>
-      <guid>http://localhost:1313/hugo-blog/git/</guid>
+      <guid>https://jintaoyugithub.github.io/hugo-blog/git/</guid>
       <description></description>
     </item>
   </channel>
