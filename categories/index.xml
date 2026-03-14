@@ -1,36 +1,35 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Categories - Category - Jintao Yu Blog</title>
-        <link>https://jintaoyugithub.github.io/hugo-blog/categories/</link>
-        <description>Categories - Category - Jintao Yu Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
-            <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Sat, 03 May 2025 22:06:14 &#43;0200</lastBuildDate><atom:link href="https://jintaoyugithub.github.io/hugo-blog/categories/" rel="self" type="application/rss+xml" /><item>
-    <title>Archived</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/categories/archived/</link>
-    <pubDate>Sat, 03 May 2025 22:06:14 &#43;0200</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/categories/archived/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Reading Notes</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/categories/reading-notes/</link>
-    <pubDate>Sat, 19 Apr 2025 11:49:42 &#43;0200</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/categories/reading-notes/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Projects</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/categories/projects/</link>
-    <pubDate>Sat, 12 Apr 2025 23:07:44 &#43;0200</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/categories/projects/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Utilities</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/categories/utilities/</link>
-    <pubDate>Mon, 10 Mar 2025 00:14:55 &#43;0100</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/categories/utilities/</guid>
-    <description><![CDATA[]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jintao Yu Blog</title>
+    <link>http://localhost:1313/hugo-blog/categories/</link>
+    <description>Recent content in Categories on Jintao Yu Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
+    <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster>
+    <lastBuildDate>Sat, 19 Apr 2025 11:49:42 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading Notes</title>
+      <link>http://localhost:1313/hugo-blog/categories/reading-notes/</link>
+      <pubDate>Sat, 19 Apr 2025 11:49:42 +0200</pubDate><author>jintaoyuemail@gmail.com (Jintao Yu)</author>
+      <guid>http://localhost:1313/hugo-blog/categories/reading-notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/hugo-blog/categories/projects/</link>
+      <pubDate>Sat, 12 Apr 2025 23:07:44 +0200</pubDate><author>jintaoyuemail@gmail.com (Jintao Yu)</author>
+      <guid>http://localhost:1313/hugo-blog/categories/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Utilities</title>
+      <link>http://localhost:1313/hugo-blog/categories/utilities/</link>
+      <pubDate>Mon, 10 Mar 2025 00:14:55 +0100</pubDate><author>jintaoyuemail@gmail.com (Jintao Yu)</author>
+      <guid>http://localhost:1313/hugo-blog/categories/utilities/</guid>
+      <description></description>
+    </item>
+  </channel>
 </rss>

@@ -5,53 +5,53 @@
 
 <!-- Note: pay attention to the upper case of the proj folder -->
 
-<!-- project: Software tessellation in character rendering -->
+<!-- project: Mesh refinement with compute shader tessellation  -->
 {{< showcase 
-title="Software tessellation in character rendering"
-summary="An on going master thesis project" 
-image="https://jintaoyugithub.github.io/hugo-blog/proj-softwaretesscharacterrendering/stcr_cover.png" 
-link="https://jintaoyugithub.github.io/hugo-blog/proj-softwaretesscharacterrendering/" >}}
+title="Mesh refinement with compute shader tessellation"
+summary="A GPU-Driven framework for real-time mesh refinement" 
+src="https://jintaoyugithub.github.io/hugo-blog/proj-computeShaderTessellation/csmr_cover.png" 
+link="https://jintaoyugithub.github.io/hugo-blog/proj-computeShaderTessellation/" >}}
 
 <!-- project: Parallax Voxel Ray Marcher -->
 {{< showcase 
 title="Parallax Voxel Ray Marcher"
 summary="An alternative way inspired by game Teardown to fast rendering voxel" 
-image="https://jintaoyugithub.github.io/hugo-blog/proj-parallaxvoxelraymarcher/pvrm_cover.png" 
+src="https://jintaoyugithub.github.io/hugo-blog/proj-parallaxvoxelraymarcher/pvrm_cover.png" 
 link="https://jintaoyugithub.github.io/hugo-blog/proj-parallaxvoxelraymarcher/" >}}
 
 <!-- project:  -->
 {{< showcase 
 title="Fluid Simulation"
 summary="Eularian 2 dimensional grid based fluid simulation" 
-image="https://jintaoyugithub.github.io/hugo-blog/proj-fluidsimulation/fluidSim_cover.png" 
+src="https://jintaoyugithub.github.io/hugo-blog/proj-fluidsimulation/fluidSim_cover.png" 
 link="https://jintaoyugithub.github.io/hugo-blog/proj-fluidsimulation/" >}}
 
 <!-- project: Aero Rings -->
 {{< showcase 
 title="Aero Rings"
 summary="LTH computer graphics course project" 
-image="https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/aeroRings_cover.png" 
+src="https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/aeroRings_cover.png" 
 link="https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/" >}}
 
 <!-- project:  -->
-{{< showcase 
+{{/*< showcase 
 title="Blender Archive"
 summary="Some archived blender showreels" 
-image="https://jintaoyugithub.github.io/hugo-blog/proj-blenderarchive/ba_cover.png" 
-link="https://jintaoyugithub.github.io/hugo-blog/proj-blenderarchive/" >}}
+src="https://jintaoyugithub.github.io/hugo-blog/proj-blenderarchive/ba_cover.png" 
+link="https://jintaoyugithub.github.io/hugo-blog/proj-blenderarchive/" >*/}}
 
 <!-- project:  -->
-{{< showcase 
+{{/*< showcase 
 title="Cyber Guard"
 summary="A university project focuses on camera system use case in VR world" 
-image="https://jintaoyugithub.github.io/hugo-blog/proj-cyberguard/cyberGuard_cover.png" 
-link="https://jintaoyugithub.github.io/hugo-blog/proj-cyberguard/" >}}
+src="https://jintaoyugithub.github.io/hugo-blog/proj-cyberguard/cyberGuard_cover.png" 
+link="https://jintaoyugithub.github.io/hugo-blog/proj-cyberguard/" >*/}}
 
 <!-- project:  -->
-{{< showcase 
+{{/*< showcase 
 title="AR Drone"
 summary="A university project collaborate with UAS lab of Lund university for better drone training" 
-image="https://jintaoyugithub.github.io/hugo-blog/proj-ardrone/arDrone_cover.png" 
-link="https://jintaoyugithub.github.io/hugo-blog/proj-ardrone/" >}}
+src="https://jintaoyugithub.github.io/hugo-blog/proj-ardrone/arDrone_cover.png" 
+link="https://jintaoyugithub.github.io/hugo-blog/proj-ardrone/" >*/}}
 
 
