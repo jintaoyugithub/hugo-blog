@@ -33,25 +33,4 @@ summary="LTH computer graphics course project"
 src="https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/aeroRings_cover.png" 
 link="https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/" >}}
 
-<!-- project:  -->
-{{/*< showcase 
-title="Blender Archive"
-summary="Some archived blender showreels" 
-src="https://jintaoyugithub.github.io/hugo-blog/proj-blenderarchive/ba_cover.png" 
-link="https://jintaoyugithub.github.io/hugo-blog/proj-blenderarchive/" >*/}}
-
-<!-- project:  -->
-{{/*< showcase 
-title="Cyber Guard"
-summary="A university project focuses on camera system use case in VR world" 
-src="https://jintaoyugithub.github.io/hugo-blog/proj-cyberguard/cyberGuard_cover.png" 
-link="https://jintaoyugithub.github.io/hugo-blog/proj-cyberguard/" >*/}}
-
-<!-- project:  -->
-{{/*< showcase 
-title="AR Drone"
-summary="A university project collaborate with UAS lab of Lund university for better drone training" 
-src="https://jintaoyugithub.github.io/hugo-blog/proj-ardrone/arDrone_cover.png" 
-link="https://jintaoyugithub.github.io/hugo-blog/proj-ardrone/" >*/}}
-
 
