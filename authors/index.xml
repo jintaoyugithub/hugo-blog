@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Authors on Jintao Yu Blog</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/authors/</link>
-    <description>Recent content in Authors on Jintao Yu Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
-    <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster>
-    <atom:link href="https://jintaoyugithub.github.io/hugo-blog/authors/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Authors - Author - Jintao Yu Blog</title><link>https://jintaoyugithub.github.io/hugo-blog/authors/</link><description>Authors - Author - Jintao Yu Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor><webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><atom:link href="https://jintaoyugithub.github.io/hugo-blog/authors/" rel="self" type="application/rss+xml"/></channel></rss>

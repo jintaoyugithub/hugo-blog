@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Utilities on Jintao Yu Blog</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/categories/utilities/</link>
-    <description>Recent content in Utilities on Jintao Yu Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
-    <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster>
-    <lastBuildDate>Mon, 10 Mar 2025 00:14:55 +0100</lastBuildDate>
-    <atom:link href="https://jintaoyugithub.github.io/hugo-blog/categories/utilities/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Git Cheatsheet</title>
-      <link>https://jintaoyugithub.github.io/hugo-blog/git/</link>
-      <pubDate>Mon, 10 Mar 2025 00:14:55 +0100</pubDate><author>jintaoyuemail@gmail.com (Jintao Yu)</author>
-      <guid>https://jintaoyugithub.github.io/hugo-blog/git/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Utilities - Category - Jintao Yu Blog</title><link>https://jintaoyugithub.github.io/hugo-blog/categories/utilities/</link><description>Utilities - Category - Jintao Yu Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor><webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Mon, 10 Mar 2025 00:14:55 +0100</lastBuildDate><atom:link href="https://jintaoyugithub.github.io/hugo-blog/categories/utilities/" rel="self" type="application/rss+xml"/><item><title>Git Cheatsheet</title><link>https://jintaoyugithub.github.io/hugo-blog/git/</link><pubDate>Mon, 10 Mar 2025 00:14:55 +0100</pubDate><author><name>Jintao Yu</name></author><guid>https://jintaoyugithub.github.io/hugo-blog/git/</guid><description>&lt;div class="featured-image">
+                &lt;img src="/hugo-blog/git/git-logo.jpg" referrerpolicy="no-referrer">
+            &lt;/div>An overview of common commands of git in the terminal</description></item></channel></rss>

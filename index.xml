@@ -1,71 +1,13 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Jintao Yu Blog</title>
-        <link>https://jintaoyugithub.github.io/hugo-blog/</link>
-        <description>Jintao.Yu&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor>
-            <webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Sat, 14 Mar 2026 22:41:07 &#43;0100</lastBuildDate>
-            <atom:link href="https://jintaoyugithub.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Todo</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/todo/</link>
-    <pubDate>Sat, 14 Mar 2026 22:41:07 &#43;0100</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/todo/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>About Me</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/about/</link>
-    <pubDate>Sun, 13 Apr 2025 12:20:35 &#43;0200</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/about/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/hugo-blog/about/about_cover.png" referrerpolicy="no-referrer">
-            </div>Currently, many parts of the website are still not updated.]]></description>
-</item><item>
-    <title>Mesh refinement with compute shader tessellation</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/proj-computershadertessellation/</link>
-    <pubDate>Sat, 12 Apr 2025 22:33:01 &#43;0200</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-computershadertessellation/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/hugo-blog/proj-computershadertessellation/csmr_cover.png" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item><item>
-    <title>Git Cheatsheet</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/git/</link>
-    <pubDate>Mon, 10 Mar 2025 00:14:55 &#43;0100</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/git/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/hugo-blog/git/git-logo.jpg" referrerpolicy="no-referrer">
-            </div>An overview of common commands of git in the terminal]]></description>
-</item><item>
-    <title>Parallax Voxel Ray Marcher</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/proj-parallaxvoxelraymarcher/</link>
-    <pubDate>Sat, 12 Apr 2025 22:19:09 &#43;0200</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-parallaxvoxelraymarcher/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/hugo-blog/proj-parallaxvoxelraymarcher/pvrm_cover.png" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item><item>
-    <title>Fluid Simulation</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/proj-fluidsimulation/</link>
-    <pubDate>Sat, 12 Apr 2025 22:19:09 &#43;0200</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-fluidsimulation/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/hugo-blog/proj-fluidsimulation/fluidSim_cover.png" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item><item>
-    <title>Aero Rings</title>
-    <link>https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/</link>
-    <pubDate>Sat, 12 Apr 2025 23:07:44 &#43;0200</pubDate><author>
-        <name>Jintao Yu</name>
-    </author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/hugo-blog/proj-aerorings/aeroRings_cover.png" referrerpolicy="no-referrer">
-            </div>]]></description>
-</item></channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Jintao Yu Blog</title><link>https://jintaoyugithub.github.io/hugo-blog/</link><description>Jintao.Yu's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jintaoyuemail@gmail.com (Jintao Yu)</managingEditor><webMaster>jintaoyuemail@gmail.com (Jintao Yu)</webMaster><lastBuildDate>Sat, 14 Mar 2026 22:41:07 +0100</lastBuildDate><atom:link href="https://jintaoyugithub.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Todo</title><link>https://jintaoyugithub.github.io/hugo-blog/todo/</link><pubDate>Sat, 14 Mar 2026 22:41:07 +0100</pubDate><author><name>Jintao Yu</name></author><guid>https://jintaoyugithub.github.io/hugo-blog/todo/</guid><description></description></item><item><title>About Me</title><link>https://jintaoyugithub.github.io/hugo-blog/about/</link><pubDate>Sun, 13 Apr 2025 12:20:35 +0200</pubDate><author><name>Jintao Yu</name></author><guid>https://jintaoyugithub.github.io/hugo-blog/about/</guid><description>&lt;div class="featured-image">
+                &lt;img src="/hugo-blog/about/about_cover.png" referrerpolicy="no-referrer">
+            &lt;/div>Currently, many parts of the website are still not updated.</description></item><item><title>Mesh refinement with compute shader tessellation</title><link>https://jintaoyugithub.github.io/hugo-blog/proj-computershadertessellation/</link><pubDate>Sat, 12 Apr 2025 22:33:01 +0200</pubDate><author><name>Jintao Yu</name></author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-computershadertessellation/</guid><description>&lt;div class="featured-image">
+                &lt;img src="/hugo-blog/proj-computershadertessellation/csmr_cover.png" referrerpolicy="no-referrer">
+            &lt;/div></description></item><item><title>Git Cheatsheet</title><link>https://jintaoyugithub.github.io/hugo-blog/git/</link><pubDate>Mon, 10 Mar 2025 00:14:55 +0100</pubDate><author><name>Jintao Yu</name></author><guid>https://jintaoyugithub.github.io/hugo-blog/git/</guid><description>&lt;div class="featured-image">
+                &lt;img src="/hugo-blog/git/git-logo.jpg" referrerpolicy="no-referrer">
+            &lt;/div>An overview of common commands of git in the terminal</description></item><item><title>Parallax Voxel Ray Marcher</title><link>https://jintaoyugithub.github.io/hugo-blog/proj-parallaxvoxelraymarcher/</link><pubDate>Sat, 12 Apr 2025 22:19:09 +0200</pubDate><author><name>Jintao Yu</name></author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-parallaxvoxelraymarcher/</guid><description>&lt;div class="featured-image">
+                &lt;img src="/hugo-blog/proj-parallaxvoxelraymarcher/pvrm_cover.png" referrerpolicy="no-referrer">
+            &lt;/div></description></item><item><title>Fluid Simulation</title><link>https://jintaoyugithub.github.io/hugo-blog/proj-fluidsimulation/</link><pubDate>Sat, 12 Apr 2025 22:19:09 +0200</pubDate><author><name>Jintao Yu</name></author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-fluidsimulation/</guid><description>&lt;div class="featured-image">
+                &lt;img src="/hugo-blog/proj-fluidsimulation/fluidSim_cover.png" referrerpolicy="no-referrer">
+            &lt;/div></description></item><item><title>Aero Rings</title><link>https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/</link><pubDate>Sat, 12 Apr 2025 23:07:44 +0200</pubDate><author><name>Jintao Yu</name></author><guid>https://jintaoyugithub.github.io/hugo-blog/proj-aerorings/</guid><description>&lt;div class="featured-image">
+                &lt;img src="/hugo-blog/proj-aerorings/aeroRings_cover.png" referrerpolicy="no-referrer">
+            &lt;/div></description></item></channel></rss>
